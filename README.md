@@ -7,3 +7,6 @@ Honest limit: Flat art only: photos posterize.
 Buy the ZIP (instant download): https://maxkonova.gumroad.com/l/vtracer-polish
 
 Free connectors by the same maker: https://github.com/MaximKonovalovDev/mcp-free-pack
+
+Shop all tools with honest compare pages: https://shop-527.pages.dev
+
